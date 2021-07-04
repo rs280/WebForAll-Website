@@ -1,5 +1,5 @@
 # WebForAll Website
-![WebForAll](/WebForAll Website/WebForAll.png)
+
 ## Inspiration
 More than 98% websites on the Internet have been classified as in-accessible according to the 2020 Web Accessibility Annual Report. This is inimical to people with disabilities and restricts involving them within the Internet Community. We are determined to change this. We built WebForAll which can make all websites on the Internet accessible to individuals with accessibility challenges without having the website makers change a bit of their website. 
 Making websites accessible for everyone will help improve the quality of life for the disabled community. 
